@@ -1,1 +1,0 @@
-print("stressed"[::-1])
