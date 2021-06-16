@@ -1,0 +1,18 @@
+----------High weighted features---------
+b ['bank' 'fed' 'ecb' 'obamacare' 'yellen' 'china' 'stocks' 'ukraine'
+ 'pfizer' 'argentina']
+t ['google' 'facebook' 'apple' 'microsoft' 'climate' 'nasa' 'heartbleed'
+ 'fcc' 'gm' 'moon']
+e ['chris' 'kardashian' 'thrones' 'transformers' 'cyrus' 'miley' 'movie'
+ 'paul' 'hbo' 'film']
+m ['ebola' 'fda' 'cancer' 'mers' 'cases' 'drug' 'study' 'cdc' 'abortion'
+ 'cigarettes']
+----------Low weighted features----------
+b ['aereo' 'nintendo' 'ebola' 'twitch' 'she' 'baby' 'virus' 'video'
+ 'heartbleed' 'review']
+t ['stocks' 'american' 'thrones' 'should' 'valued' 'percent' 'raise' 'day'
+ 'quarter' 'drug']
+e ['google' 'study' 'microsoft' 'china' 'facebook' 'gm' 'apple' 'data'
+ 'risk' 'oil']
+m ['gm' 'dimon' 'facebook' 'climate' 'twitter' 'google' 'apple' 'play'
+ 'billion' 'back']
