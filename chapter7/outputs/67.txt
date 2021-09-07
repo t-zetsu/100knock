@@ -1,0 +1,10 @@
+cluster 0
+Hungary, Greece, Turkey, USA, Portugal, Albania, Germany, Romania, Montenegro, Slovakia, Italy, Greenland, Malta, Sweden, Norway, Austria, Serbia, Iceland, Poland, Belgium, England, Netherlands, Liechtenstein, Cyprus, Finland, Denmark, Ireland, France, Spain, Slovenia, Europe, Switzerland, Macedonia, Croatia
+cluster 1
+Samoa, Dominica, Peru, Venezuela, Belize, Nicaragua, Ecuador, Chile, Canada, Bahamas, Colombia, Argentina, Mexico, Cuba, Honduras, Brazil, Jamaica, Suriname, Uruguay, Guyana
+cluster 2
+Gabon, Niger, Liberia, Rwanda, Somalia, Gambia, Guinea, Tunisia, Morocco, Zambia, Ghana, Malawi, Mozambique, Libya, Uganda, Sudan, Mauritania, Botswana, Algeria, Madagascar, Senegal, Namibia, Eritrea, Burundi, Mali, Nigeria, Angola, Kenya, Zimbabwe
+cluster 3
+Azerbaijan, Armenia, Kazakhstan, Kyrgyzstan, Bulgaria, Uzbekistan, Tuvalu, Moldova, Estonia, Russia, Lithuania, Ukraine, Latvia, Belarus, Tajikistan, Turkmenistan, Georgia
+cluster 4
+Cambodia, Vietnam, Bahrain, Laos, Oman, Qatar, Nepal, Fiji, Jordan, Indonesia, Iran, Iraq, Pakistan, China, Bhutan, Lebanon, Taiwan, India, Philippines, Egypt, Syria, Australia, Malaysia, Korea, Afghanistan, Bangladesh, Japan, Israel, Thailand
