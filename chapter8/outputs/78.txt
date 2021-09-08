@@ -1,0 +1,23 @@
+cuda:0を使用
+batch_size : 1
+epoch 1 : loss_train 0.4579639232026056, accuracy_train 0.850356071964018, loss_valid 0.4372403910972399, accuracy_valid 0.8575712143928036, 8.0546sec
+batch_size : 2
+epoch 1 : loss_train 0.5032865138046807, accuracy_train 0.8280547226386806, loss_valid 0.4790865275058242, accuracy_valid 0.8403298350824587, 5.2362sec
+batch_size : 4
+epoch 1 : loss_train 0.5484766737245138, accuracy_train 0.8114692653673163, loss_valid 0.5215130286813996, accuracy_valid 0.8268365817091454, 3.1028sec
+batch_size : 8
+epoch 1 : loss_train 0.5878695746611537, accuracy_train 0.7908545727136432, loss_valid 0.5585497235507485, accuracy_valid 0.7998500749625187, 2.0288sec
+batch_size : 16
+epoch 1 : loss_train 0.6357548555250199, accuracy_train 0.7836394302848576, loss_valid 0.6049694986446223, accuracy_valid 0.7946026986506747, 1.5285sec
+batch_size : 32
+epoch 1 : loss_train 0.6965937869093152, accuracy_train 0.7787668665667167, loss_valid 0.6655137002552887, accuracy_valid 0.7916041979010495, 1.2482sec
+batch_size : 64
+epoch 1 : loss_train 0.7727203486485807, accuracy_train 0.778579460269865, loss_valid 0.7415436146308753, accuracy_valid 0.7916041979010495, 1.1189sec
+batch_size : 128
+epoch 1 : loss_train 0.8680939887117675, accuracy_train 0.7768928035982009, loss_valid 0.8391888476892584, accuracy_valid 0.7901049475262368, 1.0535sec
+batch_size : 256
+epoch 1 : loss_train 0.9877885856928403, accuracy_train 0.7787668665667167, loss_valid 0.9644644490699249, accuracy_valid 0.7916041979010495, 1.0104sec
+batch_size : 512
+epoch 1 : loss_train 1.1271433933528958, accuracy_train 0.7819527736131934, loss_valid 1.1126528974420438, accuracy_valid 0.787856071964018, 1.0561sec
+batch_size : 1024
+epoch 1 : loss_train 1.2479329256299994, accuracy_train 0.7810157421289355, loss_valid 1.2404843035498632, accuracy_valid 0.7848575712143928, 0.9779sec

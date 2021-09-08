@@ -1,0 +1,22 @@
+batch_size : 1
+epoch 1 : loss_train 0.4575267061941769, accuracy_train 0.8432346326836582, loss_valid 0.4361769476367887, accuracy_valid 0.8583208395802099, 3.1571sec
+batch_size : 2
+epoch 1 : loss_train 0.5035491039511134, accuracy_train 0.8240254872563718, loss_valid 0.4781729701949009, accuracy_valid 0.8365817091454273, 1.6895sec
+batch_size : 4
+epoch 1 : loss_train 0.547538814559945, accuracy_train 0.8081896551724138, loss_valid 0.520185389815834, accuracy_valid 0.8215892053973014, 1.0120sec
+batch_size : 8
+epoch 1 : loss_train 0.5883365529750615, accuracy_train 0.7899175412293853, loss_valid 0.558450447400842, accuracy_valid 0.8013493253373314, 0.7107sec
+batch_size : 16
+epoch 1 : loss_train 0.6372976594725224, accuracy_train 0.7813905547226386, loss_valid 0.6063315681584015, accuracy_valid 0.7946026986506747, 0.6851sec
+batch_size : 32
+epoch 1 : loss_train 0.6979365248182763, accuracy_train 0.7758620689655172, loss_valid 0.6661499292536308, accuracy_valid 0.7916041979010495, 0.4105sec
+batch_size : 64
+epoch 1 : loss_train 0.7733793484169385, accuracy_train 0.779516491754123, loss_valid 0.7430015924323994, accuracy_valid 0.7931034482758621, 0.3695sec
+batch_size : 128
+epoch 1 : loss_train 0.8708705487780759, accuracy_train 0.7791416791604198, loss_valid 0.8428816061605077, accuracy_valid 0.7923538230884558, 0.4193sec
+batch_size : 256
+epoch 1 : loss_train 0.990341469239492, accuracy_train 0.779516491754123, loss_valid 0.9671663924868142, accuracy_valid 0.7923538230884558, 0.4114sec
+batch_size : 512
+epoch 1 : loss_train 1.1281217504503418, accuracy_train 0.7812031484257871, loss_valid 1.1135807925083387, accuracy_valid 0.7908545727136432, 0.3808sec
+batch_size : 1024
+epoch 1 : loss_train 1.2475041657061923, accuracy_train 0.7813905547226386, loss_valid 1.2400205903425774, accuracy_valid 0.7848575712143928, 0.4378sec
