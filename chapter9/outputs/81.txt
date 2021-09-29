@@ -1,0 +1,11 @@
+cpu
+データ0の予測分布
+tensor([[0.2178, 0.2321, 0.1485, 0.4016]], grad_fn=<SoftmaxBackward>)
+データ1の予測分布
+tensor([[0.2389, 0.2345, 0.1944, 0.3321]], grad_fn=<SoftmaxBackward>)
+データ2の予測分布
+tensor([[0.1991, 0.3119, 0.1668, 0.3222]], grad_fn=<SoftmaxBackward>)
+データ3の予測分布
+tensor([[0.1595, 0.1881, 0.4530, 0.1994]], grad_fn=<SoftmaxBackward>)
+データ4の予測分布
+tensor([[0.2604, 0.3492, 0.1960, 0.1945]], grad_fn=<SoftmaxBackward>)

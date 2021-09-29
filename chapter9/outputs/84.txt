@@ -1,0 +1,10 @@
+epoch: 1, loss_train: 1.2359, accuracy_train: 0.3979, loss_valid: 1.2331, accuracy_valid: 0.3975, 12.6570sec
+epoch: 2, loss_train: 1.2498, accuracy_train: 0.3977, loss_valid: 1.2500, accuracy_valid: 0.3967, 12.6041sec
+epoch: 3, loss_train: 1.1803, accuracy_train: 0.5202, loss_valid: 1.1885, accuracy_valid: 0.5090, 12.8332sec
+epoch: 4, loss_train: 1.1590, accuracy_train: 0.5580, loss_valid: 1.1747, accuracy_valid: 0.5509, 11.7995sec
+epoch: 5, loss_train: 1.1008, accuracy_train: 0.5943, loss_valid: 1.1233, accuracy_valid: 0.5921, 12.0946sec
+epoch: 6, loss_train: 0.9995, accuracy_train: 0.6442, loss_valid: 1.0316, accuracy_valid: 0.6272, 12.5636sec
+epoch: 7, loss_train: 1.0569, accuracy_train: 0.6158, loss_valid: 1.0996, accuracy_valid: 0.5973, 12.5408sec
+epoch: 8, loss_train: 0.9889, accuracy_train: 0.6478, loss_valid: 1.0318, accuracy_valid: 0.6310, 12.8325sec
+epoch: 9, loss_train: 0.9778, accuracy_train: 0.6528, loss_valid: 1.0250, accuracy_valid: 0.6302, 12.7081sec
+epoch: 10, loss_train: 0.9639, accuracy_train: 0.6572, loss_valid: 1.0096, accuracy_valid: 0.6332, 12.6600sec

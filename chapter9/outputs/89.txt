@@ -1,0 +1,4 @@
+epoch: 1, loss_train: 0.0843, accuracy_train: 0.9536, loss_valid: 0.1170, accuracy_valid: 0.9266, 57.3220sec
+epoch: 2, loss_train: 0.0488, accuracy_train: 0.9734, loss_valid: 0.1075, accuracy_valid: 0.9222, 57.6059sec
+epoch: 3, loss_train: 0.0284, accuracy_train: 0.9865, loss_valid: 0.1076, accuracy_valid: 0.9289, 57.7913sec
+epoch: 4, loss_train: 0.0263, accuracy_train: 0.9855, loss_valid: 0.1357, accuracy_valid: 0.9222, 58.0966sec

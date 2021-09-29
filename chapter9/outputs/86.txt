@@ -1,0 +1,1 @@
+tensor([[0.2071, 0.2194, 0.2697, 0.3038]], grad_fn=<SoftmaxBackward>)
