@@ -1,0 +1,8 @@
+========experiment 0========
+Generate test with beam=10: BLEU4 = 5.42, 29.8/7.9/3.0/1.4 (BP=0.974, ratio=0.975, syslen=26056, reflen=26734)
+========experiment 1========
+Generate test with beam=10: BLEU4 = 0.28, 10.6/0.9/0.1/0.0 (BP=1.000, ratio=1.032, syslen=27580, reflen=26734)
+========experiment 2========
+Generate test with beam=10: BLEU4 = 1.16, 19.2/2.8/0.7/0.4 (BP=0.609, ratio=0.669, syslen=17878, reflen=26734)
+========experiment 3========
+Generate test with beam=10: BLEU4 = 4.05, 24.3/5.8/2.2/1.0 (BP=0.966, ratio=0.966, syslen=25834, reflen=26734)
