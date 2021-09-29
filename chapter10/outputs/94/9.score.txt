@@ -1,0 +1,2 @@
+Namespace(ignore_case=False, order=4, ref='data/kyoto/test.en', sacrebleu=False, sentence_bleu=False, sys='outputs/94/9.out.txt')
+BLEU4 = 5.51, 30.4/7.7/2.9/1.4 (BP=1.000, ratio=1.046, syslen=27974, reflen=26734)
